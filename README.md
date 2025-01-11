@@ -9,3 +9,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1a5c089-d08f-47b8-bb9f-fa7fdd803387" height="360" width="600" >
 </p>
+
+## Running example
+Please, [press here](https://annakrp.github.io/js-dice-game/) to see running example.
+<br/><br/>
